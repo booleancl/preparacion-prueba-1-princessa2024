@@ -30,6 +30,7 @@ cd modulo-00
 touch index.md
 cd ..
 mkdir modulo-01
+cd modulo-01
 touch index.md
 cd ..
 
